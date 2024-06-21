@@ -40,3 +40,33 @@ How to install all the necessary libraries using pip
 ```
 pip install -r requirements.txt
 ```
+## Citing this work
+
+If you use the code please cite:
+
+Plain Text
+```
+Avgoustis, A., Exarchos, T., Vrahatis, A.G., Vlamos, P. (2024). Optimization of Healthcare Process Management Using Machine Learning. In: Maglogiannis, I., Iliadis, L., Macintyre, J., Avlonitis, M., Papaleonidas, A. (eds) Artificial Intelligence Applications and Innovations. AIAI 2024. IFIP Advances in Information and Communication Technology, vol 711. Springer, Cham. https://doi.org/10.1007/978-3-031-63211-2_15
+```
+BibTex
+```bibtex
+@InProceedings{10.1007/978-3-031-63211-2_15,
+author="Avgoustis, Andreas
+and Exarchos, Themis
+and Vrahatis, Aristidis G.
+and Vlamos, Panagiotis",
+editor="Maglogiannis, Ilias
+and Iliadis, Lazaros
+and Macintyre, John
+and Avlonitis, Markos
+and Papaleonidas, Antonios",
+title="Optimization of Healthcare Process Management Using Machine Learning",
+booktitle="Artificial Intelligence Applications and Innovations",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="187--200",
+abstract="Healthcare management plays a crucial role in ensuring the efficient delivery of healthcare services. This responsibility encompasses strategic planning, resource management, and regulatory compliance to enhance patient care outcomes. In this paper, we delve into the multifaceted nature of healthcare management, highlighting the expertise required to optimize processes within dynamic healthcare environments. Furthermore, we explore the potential of machine learning in addressing operational challenges within healthcare. By examining various machine learning algorithms, we identify their advantages and limitations, proposing a structured method of application. Through this analysis, we aim to illuminate how machine learning can minimize patient waiting times and optimize overall healthcare operations. This inspection aims to elucidate how machine learning methodologies can mitigate patient wait times and refine overall healthcare logistics. By amalgamating cutting-edge technologies with strategic methodologies, healthcare entities can leverage the transformative capabilities of machine learning to enhance operational efficiency and elevate the delivery of patient care.",
+isbn="978-3-031-63211-2"
+}
+```
