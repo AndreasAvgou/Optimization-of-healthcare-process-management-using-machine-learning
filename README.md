@@ -24,13 +24,13 @@ You can find the dataset that was used in this [link](https://medicalanalyticsgr
 All libraries and frameworks that was used
 ```
 1. Python>=3.11
-2. Pandas>=2.0.3
-3. Numpy>=1.24.3
-4. Matplotlib>=3.7.2
-5. Scikit-learn>=1.3.2
-6. Xgboost>=2.0.2
-7. Tensorflow>=2.15.0
-8. Openpyxl>=3.0.10
+2. Pandas>=2.1,<3
+3. Numpy>=1.26,<2
+4. Matplotlib>=3.7,<4
+5. Scikit-learn>=1.3,<2
+6. Xgboost>=2.0,<3
+7. Tensorflow>=2.16,<3
+8. Openpyxl>=3.0,<4
 ```
 ## Cloud Tools
 
