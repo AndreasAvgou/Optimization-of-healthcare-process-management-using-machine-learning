@@ -32,11 +32,6 @@ All libraries and frameworks that was used
 7. Tensorflow>=2.16,<3
 8. Openpyxl>=3.0,<4
 ```
-## Cloud Tools
-
-If localhost does not work, we used cloud tool:
-
-1. [SaturnCloud](https://app.community.saturnenterprise.io/)
 
 ##  Install libraries
 
