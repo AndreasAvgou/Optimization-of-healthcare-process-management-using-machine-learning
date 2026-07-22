@@ -1,1 +1,0 @@
-from model_evaluation.evaluate_model import evaluate_model
