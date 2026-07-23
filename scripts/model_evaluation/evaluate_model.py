@@ -31,7 +31,6 @@ def evaluate_model(best_models, X_test, y_test, feature_names):
         print("R-squared:", r2)
         print("\n")
 
-        # Save the plot to the PDF file
         plt.figure()
         plt.xlabel('Regression Models', fontsize=12)
         plt.ylabel('R-squared', fontsize=12)
@@ -41,5 +40,4 @@ def evaluate_model(best_models, X_test, y_test, feature_names):
         plt.tight_layout()
         plt.close()
 
-    # Show the PDF file after the loop
     plt.show()
