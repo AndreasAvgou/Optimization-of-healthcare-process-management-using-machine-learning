@@ -6,10 +6,9 @@ import os
 
 
 def process_dataframe(sheet_name, feature_engineering_func):
-    # Get the directory of the current script
+    
     script_directory = os.path.dirname(os.path.realpath(__file__))
     
-    # Construct the full path to the Excel file within the data_loader folder
     file_path = os.path.join(script_directory, "data_loader", "WaitData.Published.xlsx")
     df = load_data(file_path, sheet_name=sheet_name)
     df = feature_engineering_func(df)
