@@ -1,6 +1,6 @@
 <div align="center">
   
- <img width="500" height="360" alt="AI-Tax-Collection" src="https://github.com/AndreasAvgou/Optimization-of-healthcare-process-management-using-machine-learning/assets/22665704/b2f5463d-91f1-49b1-8534-8a887f109ace" />
+ <img width="800" height="560" alt="AI-Tax-Collection" src="https://github.com/AndreasAvgou/Optimization-of-healthcare-process-management-using-machine-learning/assets/22665704/b2f5463d-91f1-49b1-8534-8a887f109ace" />
 
   # Optimization of healthcare process management using machine learning
   
